@@ -9,6 +9,8 @@ Currently, two official plugins are available:
   
 - Snapshots of My Portfolio website :
   
-![image](https://github.com/user-attachments/assets/ebfcf62c-2861-42ca-aa94-0214fdd6511e)
+![image](https://github.com/user-attachments/assets/c47db286-fa00-4459-a3b8-6be638188237)
+
 ![image](https://github.com/user-attachments/assets/de55612e-4fdb-423c-840a-63d31db84463)
+
 ![image](https://github.com/user-attachments/assets/5f4c310f-a827-4430-b9de-e898e5462fb3)
