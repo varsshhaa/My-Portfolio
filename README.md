@@ -13,4 +13,6 @@ Currently, two official plugins are available:
 
 ![image](https://github.com/user-attachments/assets/de55612e-4fdb-423c-840a-63d31db84463)
 
+![image](https://github.com/user-attachments/assets/591597f1-35e8-4faa-bc74-df9906d7d4bb)
+
 ![image](https://github.com/user-attachments/assets/5f4c310f-a827-4430-b9de-e898e5462fb3)
